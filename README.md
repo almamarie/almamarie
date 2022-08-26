@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @almamarie
-- 👀 I’m interested in DevOps, System Administration and Automation, Artificial Intelligence, Data Science, Python, IoT and Arduino.
-- 🌱 I’m currently learning Data Science, AI, DevOps and System Administration at grow with Google and Linux system administration at the Linux Foundation.
-- 💞️ I’m looking to collaborate on any project that falls within Linux, IoT, Data Science ,Python and Artificial Intelligence.
-- 📫 How to reach me: You can reach me over email at alouismariea97@gmail.com and LinkedIn at www.linkedin.com/in/louis-marie-atoluko-ayariga-482620178. You can also reach me over WhatsApp on +233201348924
+- 👋 Hi, I’m Louis Marie Atoluko Ayariga a full stack developer.
+- 👀 I’m interested in full stack Web development or Mobile app development with flutter.
+- 👨‍💻 I love to code with Python, Java, Javascript and HTML and CSS.
+- 🌱 I’m currently learning React.
+- 👨‍💻 I am currently building an application with HTML, CSS, Javascript and Flask, to help people report human rights situations to the African Commission on Human and Peoples' Rights (ACHPR) and an application to support the ACHPR interact with Non Governmental Organizations and National Human Rights Institutions.
+- 💞️ I’m looking to collaborate on any project that falls within web development and mobile development or use Python, Java, or JavaScript.
+- 📫 You can reach me over email at alouismariea97@gmail.com and LinkedIn at www.linkedin.com/in/marieloumar.
 
-<!---
-almamarie/almamarie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
