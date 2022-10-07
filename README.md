@@ -40,7 +40,7 @@
     </tbody>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=almamarie&layout=compact"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=almamarie"/>
 
 
