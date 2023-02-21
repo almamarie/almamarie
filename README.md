@@ -5,7 +5,7 @@
 - 👨‍💻 I am currently building.
 - 💞️ I’m looking to collaborate on any project that falls within web development and mobile development or use Python, Java, or JavaScript.
 - 📫 You can reach me over email at alouismariea97@gmail.com and LinkedIn at www.linkedin.com/in/marieloumar.
-- 💻 Visit my <a href="http://www.marieloumar.com" target="_blank">website<\a> to learn more about me.
+- 💻 Visit my ["http://www.marieloumar.com](website) to learn more about me.
 
 
 <table width="320px">
