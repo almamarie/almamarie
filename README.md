@@ -1,11 +1,5 @@
-- 👋 Hi, I’m Louis Marie Atoluko Ayariga a full stack developer.
-- 👀 I’m interested in full stack App development.
-- 👨‍💻 I love to code with Python, and Typescript/Javascript.
-- 🌱 I’m currently learning ReactNative.
-- 👨‍💻 I am currently building.
-- 💞️ I’m looking to collaborate on any project that falls within web development and mobile development or use Python, Java, or JavaScript.
-- 📫 You can reach me over email at alouismariea97@gmail.com and LinkedIn at www.linkedin.com/in/marieloumar.
-- 💻 Visit my [website](http://www.marieloumar.com) to learn more about me.
+I’m an award-winning software engineer specialising in building exceptional digital experiences.
+Learn more about me on my [website]([http://www.marieloumar.com](https://marieloumar-website.vercel.app/))
 
 
 <table width="320px">
