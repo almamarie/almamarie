@@ -1,5 +1,5 @@
-I’m an award-winning software engineer specialising in building exceptional digital experiences.
-Learn more about me on my [website]([http://www.marieloumar.com](https://marieloumar-website.vercel.app/))
+I am a fullstack software engineer specialising in building exceptional digital experiences.  
+Learn more about me on my [website](https://marieloumar-website.vercel.app/).
 
 
 <table width="320px">
